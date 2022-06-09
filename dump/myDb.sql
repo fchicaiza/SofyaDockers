@@ -15,10 +15,10 @@ CREATE TABLE `Person` (
 
 
 INSERT INTO `Person` (`id`, `name`) VALUES
-(1, 'William'),
-(2, 'Marc'),
-(3, 'John'),
-(4, 'Antonio Moreno');
+(1, 'Persona1'),
+(2, 'Persona2'),
+(3, 'Persona3'),
+(4, 'Persona4');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
